@@ -1,0 +1,4 @@
+.idea
+/target
+nifi-nifiNats-nar/target
+nifi-nifiNats-processors/target
